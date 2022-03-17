@@ -1,0 +1,53 @@
+@font-face {
+  font-family: 'GoogleSans-Medium';
+  src: url('GoogleSans-Medium.eot');
+  src: url('GoogleSans-Medium.woff2') format('woff2'),
+       url('GoogleSans-Medium.woff') format('woff'),
+       url('GoogleSans-Medium.svg#GoogleSans-Medium') format('svg'),
+       url('GoogleSans-Medium.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'GoogleSans-Bold';
+  src: url('GoogleSans-Bold.eot');
+  src: url('GoogleSans-Bold.woff2') format('woff2'),
+       url('GoogleSans-Bold.woff') format('woff'),
+       url('GoogleSans-Bold.svg#GoogleSans-Bold') format('svg'),
+       url('GoogleSans-Bold.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'GoogleSans-Regular';
+  src: url('GoogleSans-Regular.eot');
+  src: url('GoogleSans-Regular.woff2') format('woff2'),
+       url('GoogleSans-Regular.woff') format('woff'),
+       url('GoogleSans-Regular.svg#GoogleSans-Regular') format('svg'),
+       url('GoogleSans-Regular.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'AvenirLTStd-Black';
+  src: url('AvenirLTStd-Black.woff') format('woff'),
+       url('AvenirLTStd-Black.svg#AvenirLTStd-Black') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'avenir_bold';
+  src: url('avenir_bold.eot');
+  src: url('avenir_bold.woff2') format('woff2'),
+       url('avenir_bold.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
