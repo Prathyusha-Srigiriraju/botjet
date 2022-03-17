@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 207.001 52.3">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #0f2b44;
+        font-size: 27px;
+        font-family: Helvetica-Bold, Helvetica;
+        font-weight: 700;
+      }
+
+      .cls-2 {
+        fill: #36a2fe;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <g id="Group_393" data-name="Group 393" transform="translate(-735 -300.78)">
+    <g id="df-2" transform="translate(735 326.08)">
+      <text id="Deepforge" class="cls-1" transform="translate(0 21)"><tspan x="0" y="0">Deepforge</tspan></text>
+      <text id="AI" class="cls-1" transform="translate(151.104 21)"><tspan x="0" y="0">AI</tspan></text>
+    </g>
+    <path id="Rounded_Rectangle_2_copy_3" data-name="Rounded Rectangle 2 copy 3" class="cls-2" d="M16442.219,1700.571a2.276,2.276,0,1,1,0-4.552h29.135a2.276,2.276,0,1,1,0,4.552Zm7.26,14.679a2.276,2.276,0,0,1,0-4.551h21.875a2.276,2.276,0,1,1,0,4.551Zm-11.857-7.339a2.276,2.276,0,1,1,0-4.552h38.346a2.276,2.276,0,1,1,0,4.552Zm30.256,14.679a2.275,2.275,0,1,1,2.283-2.275,2.274,2.274,0,0,1-2.283,2.275Zm-5.137,1.712a2.287,2.287,0,1,1-4.574,0v-3.987a2.287,2.287,0,1,1,4.574,0Z" transform="translate(-15536.243 -1395.239)"/>
+  </g>
+</svg>

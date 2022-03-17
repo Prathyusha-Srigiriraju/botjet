@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 111.496 111.644">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #36a2fe;
+      }
+
+      .cls-1 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        opacity: 0.094;
+      }
+    </style>
+  </defs>
+  <g id="Group_1651" data-name="Group 1651" transform="translate(-1012 -1295)">
+    <g id="Group_1650" data-name="Group 1650">
+      <g id="Group_1649" data-name="Group 1649">
+        <path id="Rounded_Rectangle_2_copy_3" data-name="Rounded Rectangle 2 copy 3" class="cls-1" d="M16452.98,1721.027a4.168,4.168,0,0,1,0-8.337h40.072a4.169,4.169,0,1,1,0,8.337Zm33.705,13.446a4.168,4.168,0,1,1,4.182-4.168,4.166,4.166,0,0,1-4.182,4.168Zm-9.41,3.136a4.19,4.19,0,1,1-8.381,0v-7.3a4.19,4.19,0,1,1,8.381,0Z" transform="translate(-15405.813 -376.69)"/>
+        <path id="Rectangle_62" data-name="Rectangle 62" class="cls-2" d="M28,0h2A50,50,0,0,1,80,50v0A28,28,0,0,1,52,78H28A28,28,0,0,1,0,50V28A28,28,0,0,1,28,0Z" transform="translate(1012 1354.452) rotate(-48)"/>
+      </g>
+    </g>
+  </g>
+</svg>
