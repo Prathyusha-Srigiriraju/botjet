@@ -1,0 +1,83 @@
+@font-face {
+  font-family: 'bryantpro-medium';
+  src: url('bryantpro-medium.eot');
+  src: url('bryantpro-medium.woff2') format('woff2'),
+       url('bryantpro-medium.woff') format('woff'),
+       url('bryantpro-medium.svg#bryantpro-medium') format('svg'),
+       url('bryantpro-medium.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'bryantpro-bold';
+  src: url('bryantpro-bold.eot');
+  src: url('bryantpro-bold.woff2') format('woff2'),
+       url('bryantpro-bold.woff') format('woff'),
+       url('bryantpro-bold.svg#bryantpro-bold') format('svg'),
+       url('bryantpro-bold.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'montserrat-medium';
+  src: url('montserrat-medium.eot');
+  src: url('montserrat-medium.woff2') format('woff2'),
+       url('montserrat-medium.woff') format('woff'),
+       url('montserrat-medium.svg#montserrat-medium') format('svg'),
+       url('montserrat-medium.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'bryantpro-regular';
+  src: url('bryantpro-regular.eot');
+  src: url('bryantpro-regular.woff2') format('woff2'),
+       url('bryantpro-regular.woff') format('woff'),
+       url('bryantpro-regular.svg#bryantpro-regular') format('svg'),
+       url('bryantpro-regular.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'GoogleSans-Medium';
+  src: url('GoogleSans-Medium.eot');
+  src: url('GoogleSans-Medium.woff2') format('woff2'),
+       url('GoogleSans-Medium.woff') format('woff'),
+       url('GoogleSans-Medium.svg#GoogleSans-Medium') format('svg'),
+       url('GoogleSans-Medium.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'GoogleSans-Bold';
+  src: url('GoogleSans-Bold.eot');
+  src: url('GoogleSans-Bold.woff2') format('woff2'),
+       url('GoogleSans-Bold.woff') format('woff'),
+       url('GoogleSans-Bold.svg#GoogleSans-Bold') format('svg'),
+       url('GoogleSans-Bold.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'GoogleSans-Regular';
+  src: url('GoogleSans-Regular.eot');
+  src: url('GoogleSans-Regular.woff2') format('woff2'),
+       url('GoogleSans-Regular.woff') format('woff'),
+       url('GoogleSans-Regular.svg#GoogleSans-Regular') format('svg'),
+       url('GoogleSans-Regular.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
